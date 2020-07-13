@@ -12,6 +12,11 @@ This project was developed to study how to implement animations using the Animat
 </p>
 
 
+### Technologies and libraries used:
+- React-Native
+- React Navigation 5
+- Animated API.
+
 ### How to execute:
 Warning: this project was developed using the iPhone Simulator, running iOS 13. The code was not tested on Android devices.
 
